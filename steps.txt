@@ -1,5 +1,0 @@
-1) first i done my backend setup
-    - npm init -y
-    - npm install express mongoose dotenv cors body-parser
-
-2) 
